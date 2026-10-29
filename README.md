@@ -1,4 +1,4 @@
-# Hi, I'm Payton Staub 👋
+# Hi, I'm Payton
 
 SVP of Software & AI Solutions at **ZBeta**, based in Nashville, TN. I lead AI adoption, technology modernization, and new software products for a vendor-agnostic physical security consulting firm.
 
